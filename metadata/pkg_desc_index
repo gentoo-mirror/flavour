@@ -34,7 +34,7 @@ media-sound/xooky-nabox 9999: A C++ application for running PureData patches on 
 net-misc/epoptes-client 9999: Client daemon for Epoptes
 net-misc/forticlient-sslvpn 4.0.2143: SSL VPN Client for Fortinet
 net-misc/ltsp-cluster-lbagent 2.0.2: LTSP Cluster loadbalancer agent
-net-misc/ltsp-cluster-lbserver 2.0.0: LTSP Cluster loadbalancer server
+net-misc/ltsp-cluster-lbserver 2.0.0: LTSP Cluster loadbalancer agent
 net-misc/meresco-harvester 6.1 7.1.3: The OAI-Harvester from MERESCO, a next generation library of components for (meta)data management.
 net-misc/shell-oaiharvester 0.11 0.12 9999: OAI-PMH harvester built in shell.
 www-apps/ilias 4.2.3: ILIAS, the flexible and powerful open source learning management system
