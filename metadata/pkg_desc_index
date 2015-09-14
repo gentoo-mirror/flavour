@@ -15,7 +15,7 @@ dev-python/imsvdex 1.0: This module takes the VDEX-XML objects and offers an API
 dev-python/mincemeatpy 0.1.4 9999: A Python implementation of the MapReduce distributed computing framework.
 dev-python/pijnu 9999: A PEG parser generator and processor, written in Python, intended to be clear, easy, practical.
 dev-python/py-postgresql 1.0.4: A project dedicated to improving the Python interfaces to PostgreSQL.
-dev-python/python-cqlparser 1.7.1 1.7.2: A parser that builds a parsetree for the given CQL and can convert this into other formats.
+dev-python/python-cqlparser 1.7.2 1.7.4: A parser that builds a parsetree for the given CQL and can convert this into other formats.
 dev-python/python-magic 0.4.3: A python wrapper for libmagic.
 dev-python/python-storage 6.0.2: Storage stores data in a reliable, extendable filebased storage with great performance.
 dev-python/readability-score 1.0 9999: This Python library can calculate the readability score of a text.
