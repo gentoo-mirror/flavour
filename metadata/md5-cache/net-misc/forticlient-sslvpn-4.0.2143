@@ -1,0 +1,11 @@
+DEFINED_PHASES=install postinst unpack
+DESCRIPTION=SSL VPN Client for Fortinet
+EAPI=0
+HOMEPAGE=http://www.forticlient.com/
+KEYWORDS=~amd64 ~x86
+LICENSE=FortiClientSSLVPN
+RDEPEND=net-dialup/ppp
+SLOT=0
+SRC_URI=ftp://pftpintl:F0rt1intl@support.fortinet.com/FortiGate/v4.00/4.0MR3/MR3/SSL-VPN/forticlientsslvpn_linux_4.0.2138.tar.gz
+_eclass_exported_funcs=pkg_postinst:- src_unpack:- src_install:-
+_md5_=51f0ed755f613fb63bfff712f0f6e7f9

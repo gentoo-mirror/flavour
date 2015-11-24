@@ -1,0 +1,15 @@
+DEFINED_PHASES=install postinst prerm setup
+DEPEND=>=app-admin/webapp-config-1.50.15
+DESCRIPTION=ILIAS, the flexible and powerful open source learning management system
+EAPI=2
+HOMEPAGE=http://www.ilias.de/
+IUSE=linguas_ar linguas_bg linguas_cs linguas_da linguas_de linguas_el linguas_en linguas_es linguas_et linguas_fr linguas_hu linguas_it linguas_ja linguas_lt linguas_nl linguas_pl linguas_pt linguas_ro linguas_ru linguas_sk linguas_sq linguas_sr linguas_tr linguas_uk linguas_vi linguas_zh vhosts
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=>=www-servers/apache-2.2 >=dev-lang/php-5.2.6[gd,mysql,xml,xsl] >=virtual/mysql-5.0 media-gfx/imagemagick[jpeg,png] dev-php/pear dev-php/PEAR-Auth dev-php/PEAR-MDB2[mysql] dev-php/PEAR-HTML_Template_IT dev-php/PEAR-Spreadsheet_Excel_Writer >=app-admin/webapp-config-1.50.15
+RESTRICT=mirror
+SLOT=4.2.3
+SRC_URI=http://downloads.sourceforge.net/ilias/ilias-4.2.3.zip
+_eclass_exported_funcs=pkg_prerm:webapp pkg_postinst:webapp pkg_setup:webapp src_install:-
+_eclasses_=webapp	42c6ef7af496b228f9854b3c81e4b226
+_md5_=efeffe0b8c2fa4055d3f7ce59f39211a
