@@ -1,24 +1,24 @@
-app-office/archi 2.4.0: 
-app-office/talend-data-integration 5.0.1: 
+app-office/archi 2.4.0: A free, open source, cross-platform tool and editor to create ArchiMate models.
+app-office/talend-data-integration 5.0.1: A powerful and versatile open source solution for data integration.
 app-text/multithreaded-wikipedia-extractor 1.0 9999: Extracts and cleans text from Wikipedia database dump.
 app-text/wikipedia-extractor 2.6 2.8 2.32 2.39: Extracts and cleans text from Wikipedia database dump.
-dev-embedded/gpio-tools 9999: 
-dev-php/infoflux 1.0 1.1 9999: 
-dev-python/aniso8601 0.70: 
+dev-embedded/gpio-tools 9999: Shell library to access the GPIO, designed to be board agnostic.
+dev-php/infoflux 1.0 1.1 9999: The Infoflux framework aims to provide developers with an abstraction layer for data sources.
+dev-python/aniso8601 0.70: A library for parsing ISO 8601 strings.
 dev-python/cq2utils 6.0: A package with a wide range of valuable tools for MERESCO and other cq2 packages.
 dev-python/cq2utils-old 5.4.1: CQ2 Utils Old is a package with a wide range of valuable tools used for supporting the software based on python2.4 like Slowfoot and Meresco Harvester.
 dev-python/dynamichtml 1.0: A template engine based on generators, and a sequel to Slowfoot
 dev-python/escaping 0.1: A collection of functions for escaping filenames etc.
-dev-python/evelink 0.6.1 0.7.2 0.7.3: 
-dev-python/google-api-python-client 1.2 1.4.1: 
+dev-python/evelink 0.6.1 0.7.2 0.7.3: Python bindings for the EVE API.
+dev-python/google-api-python-client 1.2 1.4.1: Google APIs Client Library for Python.
 dev-python/imsvdex 1.0: This module takes the VDEX-XML objects and offers an API to them.
-dev-python/mincemeatpy 0.1.4 9999: 
+dev-python/mincemeatpy 0.1.4 9999: A Python implementation of the MapReduce distributed computing framework.
 dev-python/pijnu 9999: A PEG parser generator and processor, written in Python, intended to be clear, easy, practical.
 dev-python/py-postgresql 1.0.4: A project dedicated to improving the Python interfaces to PostgreSQL.
-dev-python/python-cqlparser 1.7.2 1.7.4: 
-dev-python/python-magic 0.4.3: 
+dev-python/python-cqlparser 1.7.2 1.7.4: A parser that builds a parsetree for the given CQL and can convert this into other formats.
+dev-python/python-magic 0.4.3: A python wrapper for libmagic.
 dev-python/python-storage 6.0.2: Storage stores data in a reliable, extendable filebased storage with great performance.
-dev-python/readability-score 1.0 9999: 
+dev-python/readability-score 1.0 9999: This Python library can calculate the readability score of a text.
 dev-python/slowfoot 8.0.1: Slowfoot is an integration system for web-based applications.
 dev-python/vdexcsv 1.1: Converts CSV files to IMS VDEX XML.
 dev-python/weightless-core 0.7.2: Weightless is a High Performance Asynchronous Networking Library.
@@ -27,7 +27,7 @@ dev-util/depot_tools 9999: Chromium uses a package of scripts, the depot_tools, 
 dev-util/meresco-components 4.0.6: Components to build searchengines, repositories and archives, based on Meresco Core.
 dev-util/meresco-core 4.0.1: The MERESCO core libraries.
 dev-util/meresco-xml 4.0: XML components based on Meresco.
-dev-util/soapui 4.6.1 4.6.4: 
+dev-util/soapui 4.6.1 4.6.4: SoapUI is a free and open source cross-platform Functional Testing solution.
 games-util/gtkevemon 9999: A standalone skill monitoring application for EVE Online
 media-sound/libpd 9999: Turning Pure Data into an embeddable audio synthesis library.
 media-sound/xooky-nabox 9999: A C++ application for running PureData patches on embedded devices.
