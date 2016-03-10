@@ -1,7 +1,7 @@
 app-office/archi 2.4.0: A free, open source, cross-platform tool and editor to create ArchiMate models.
 app-office/talend-data-integration 5.0.1: A powerful and versatile open source solution for data integration.
 app-text/multithreaded-wikipedia-extractor 1.0 9999: Extracts and cleans text from Wikipedia database dump.
-app-text/wikipedia-extractor 2.6 2.8 2.32 2.39: Extracts and cleans text from Wikipedia database dump.
+app-text/wikipedia-extractor 2.6 2.8 2.39 2.52: Extracts and cleans text from Wikipedia database dump.
 dev-embedded/gpio-tools 9999: Shell library to access the GPIO, designed to be board agnostic.
 dev-php/infoflux 1.0 1.1 9999: The Infoflux framework aims to provide developers with an abstraction layer for data sources.
 dev-python/aniso8601 0.70: A library for parsing ISO 8601 strings.
