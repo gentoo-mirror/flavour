@@ -29,7 +29,7 @@ dev-util/meresco-core 4.0.1: The MERESCO core libraries.
 dev-util/meresco-xml 4.0: XML components based on Meresco.
 dev-util/soapui 4.6.1 4.6.4: SoapUI is a free and open source cross-platform Functional Testing solution.
 games-util/gtkevemon 9999: A standalone skill monitoring application for EVE Online
-media-libs/fcam 1.1.2-r1: A powerful and versatile open source solution for data integration.
+media-libs/fcam 1.1.2-r1: FCam is an open-source C++ API for easy and precise control of digital cameras.
 media-sound/libpd 9999: Turning Pure Data into an embeddable audio synthesis library.
 media-sound/xooky-nabox 9999: A C++ application for running PureData patches on embedded devices.
 net-misc/epoptes-client 9999: Client daemon for Epoptes
