@@ -1,0 +1,15 @@
+DEFINED_PHASES=install postinst prepare
+DEPEND=app-arch/xz-utils virtual/pkgconfig
+DESCRIPTION=The binary Debian package of the GitLab CI Runner.
+EAPI=2
+HOMEPAGE=https://gitlab.com/gitlab-org/gitlab-ci-multi-runner
+IUSE=doc docker-build
+KEYWORDS=-* ~amd64
+LICENSE=MIT
+RDEPEND=docker-build? ( >=app-emulation/docker-1.5 )
+RESTRICT=mirror
+SLOT=0
+SRC_URI=http://httpredir.debian.org/debian/pool/main/g/gitlab-ci-multi-runner/gitlab-ci-multi-runner_1.4.1+dfsg-1_amd64.deb
+_eclass_exported_funcs=pkg_postinst:- src_prepare:- src_install:-
+_eclasses_=multilib	d062ae4ba2fc40a19c11de2ad89b6616	systemd	3165c885f3c71ffae7a867d931fb0e07	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
+_md5_=1e015cfd7b2375a8b965618a86f2cb97

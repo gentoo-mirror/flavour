@@ -24,6 +24,7 @@ dev-python/vdexcsv 1.1: Converts CSV files to IMS VDEX XML.
 dev-python/weightless-core 0.7.2: Weightless is a High Performance Asynchronous Networking Library.
 dev-util/bsfl 2.00_beta_p2: Bash Shell Function Library
 dev-util/depot_tools 9999: Chromium uses a package of scripts, the depot_tools, to manage interaction with the Chromium source code repository and the Chromium development process.
+dev-util/gitlab-ci-multi-runner-bin 1.4.1: The binary Debian package of the GitLab CI Runner.
 dev-util/meresco-components 4.0.6: Components to build searchengines, repositories and archives, based on Meresco Core.
 dev-util/meresco-core 4.0.1: The MERESCO core libraries.
 dev-util/meresco-xml 4.0: XML components based on Meresco.
