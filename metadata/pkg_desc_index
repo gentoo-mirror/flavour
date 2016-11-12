@@ -11,7 +11,7 @@ dev-python/pijnu 9999: A PEG parser generator and processor, written in Python, 
 dev-python/py-postgresql 1.0.4: A project dedicated to improving the Python interfaces to PostgreSQL.
 dev-python/python-cqlparser 1.7.4 1.7.5: A parser that builds a CQL parsetree and can convert this into other formats.
 dev-python/readability-score 1.0 9999: This Python library can calculate the readability score of a text.
-dev-python/vdexcsv 1.1: Converts CSV files to IMS VDEX XML.
+dev-python/vdexcsv 1.4: Converts CSV files to IMS VDEX XML.
 dev-python/weightless-core 0.7.2: Weightless is a High Performance Asynchronous Networking Library.
 dev-util/bsfl 2.00_beta_p2: Bash Shell Function Library
 dev-util/depot_tools 9999: Chromium uses a package of scripts, the depot_tools, to manage interaction with the Chromium source code repository and the Chromium development process.
