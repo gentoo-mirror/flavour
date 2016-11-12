@@ -4,11 +4,8 @@ app-text/multithreaded-wikipedia-extractor 1.0 9999: Extracts and cleans text fr
 app-text/wikipedia-extractor 2.6 2.8 2.52 2.55: Extracts and cleans text from Wikipedia database dump.
 dev-embedded/gpio-tools 9999: Shell library to access the GPIO, designed to be board agnostic.
 dev-php/infoflux 1.0 1.1 9999: The Infoflux framework aims to provide developers with an abstraction layer for data sources.
-dev-python/dynamichtml 1.0: A template engine based on generators, and a sequel to Slowfoot
-dev-python/escaping 0.1: A collection of functions for escaping filenames etc.
 dev-python/evelink 0.6.1 0.7.2 0.7.4: Python bindings for the EVE API.
-dev-python/google-api-python-client 1.2 1.4.1: Google APIs Client Library for Python.
-dev-python/imsvdex 1.0: This module takes the VDEX-XML objects and offers an API to them.
+dev-python/imsvdex 1.1: This module takes the VDEX-XML objects and offers an API to them.
 dev-python/mincemeatpy 0.1.4 9999: A Python implementation of the MapReduce distributed computing framework.
 dev-python/pijnu 9999: A PEG parser generator and processor, written in Python, intended to be clear, easy, practical.
 dev-python/py-postgresql 1.0.4: A project dedicated to improving the Python interfaces to PostgreSQL.
