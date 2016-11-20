@@ -16,7 +16,7 @@ dev-python/weightless-core 0.10.9: Weightless is a High Performance Asynchronous
 dev-util/bsfl 2.00_beta_p2: Bash Shell Function Library
 dev-util/depot_tools 9999: Chromium uses a package of scripts, the depot_tools, to manage interaction with the Chromium source code repository and the Chromium development process.
 dev-util/gitlab-ci-multi-runner-bin 1.4.1: The binary Debian package of the GitLab CI Runner.
-dev-util/soapui 4.6.1 4.6.4: SoapUI is a free and open source cross-platform Functional Testing solution.
+dev-util/soapui 4.6.4 5.2.1: SoapUI is a free and open source cross-platform Functional Testing solution.
 games-util/gtkevemon 9999: A standalone skill monitoring application for EVE Online
 media-libs/fcam 1.1.2-r1: FCam is an open-source C++ API for easy and precise control of digital cameras.
 media-sound/libpd 9999: Turning Pure Data into an embeddable audio synthesis library.
