@@ -17,7 +17,6 @@ dev-python/weightless-core 0.10.9: Weightless is a High Performance Asynchronous
 dev-util/depot_tools 9999: Chromium uses a package of scripts, the depot_tools, to manage interaction with the Chromium source code repository and the Chromium development process.
 dev-util/gitlab-ci-multi-runner-bin 1.4.1: The binary Debian package of the GitLab CI Runner.
 dev-util/soapui 4.6.4 5.2.1: SoapUI is a free and open source cross-platform Functional Testing solution.
-games-util/gtkevemon 9999: A standalone skill monitoring application for EVE Online
 media-libs/fcam 1.1.2-r1: FCam is an open-source C++ API for easy and precise control of digital cameras.
 media-sound/libpd 0.10.0: Turning Pure Data into an embeddable audio synthesis library.
 media-sound/xooky-nabox 9999: A C++ application for running PureData patches on embedded devices.
@@ -25,7 +24,7 @@ net-misc/epoptes-client 9999: Client daemon for Epoptes
 net-misc/forticlient-sslvpn 4.0.2143: SSL VPN Client for Fortinet
 net-misc/ltsp-cluster-lbagent 2.0.2: LTSP Cluster loadbalancer agent
 net-misc/ltsp-cluster-lbserver 2.0.0: LTSP Cluster loadbalancer server
-net-misc/shell-oaiharvester 0.12 9999: OAI-PMH harvester built in shell.
+net-misc/shell-oaiharvester 0.22.2 9999: OAI-PMH harvester built in shell.
 www-apps/ilias 4.2.3: ILIAS, the flexible and powerful open source learning management system
 www-apps/ltsp-cluster-control 2.0.2: LTSP Cluster control center
 x11-themes/famfamfam-flag-icons 9999: Flag icons from famfamfam.com.
