@@ -1,7 +1,6 @@
 app-office/archi 2.4.0: A free, open source, cross-platform tool and editor to create ArchiMate models.
 app-office/talend-data-integration 5.0.1: A powerful and versatile open source solution for data integration.
-app-text/multithreaded-wikipedia-extractor 1.0 9999: Extracts and cleans text from Wikipedia database dump.
-app-text/wikipedia-extractor 2.6 2.8 2.52 2.55: Extracts and cleans text from Wikipedia database dump.
+app-text/wikipedia-extractor 2.6 2.8 2.52 2.55 2.66: Extracts and cleans text from Wikipedia database dump.
 dev-embedded/gpio-tools 9999: Shell library to access the GPIO, designed to be board agnostic.
 dev-php/infoflux 1.0 1.1 9999: The Infoflux framework aims to provide developers with an abstraction layer for data sources.
 dev-python/evelink 0.6.1 0.7.2 0.7.4: Python bindings for the EVE API.
@@ -21,7 +20,6 @@ media-libs/fcam 1.1.2-r1: FCam is an open-source C++ API for easy and precise co
 media-sound/libpd 0.10.0: Turning Pure Data into an embeddable audio synthesis library.
 media-sound/xooky-nabox 9999: A C++ application for running PureData patches on embedded devices.
 net-misc/epoptes-client 9999: Client daemon for Epoptes
-net-misc/forticlient-sslvpn 4.0.2143: SSL VPN Client for Fortinet
 net-misc/ltsp-cluster-lbagent 2.0.2: LTSP Cluster loadbalancer agent
 net-misc/ltsp-cluster-lbserver 2.0.0: LTSP Cluster loadbalancer server
 net-misc/shell-oaiharvester 0.22.2 9999: OAI-PMH harvester built in shell.
