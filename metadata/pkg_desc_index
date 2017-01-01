@@ -19,7 +19,7 @@ dev-util/depot_tools 9999: Chromium uses a package of scripts, the depot_tools, 
 dev-util/gitlab-ci-multi-runner-bin 1.4.1: The binary Debian package of the GitLab CI Runner.
 dev-util/soapui 4.6.4 5.2.1: SoapUI is a free and open source cross-platform Functional Testing solution.
 media-libs/fcam 1.1.2-r1: FCam is an open-source C++ API for easy and precise control of digital cameras.
-media-sound/libpd 0.10.0: Turning Pure Data into an embeddable audio synthesis library.
+media-sound/libpd 0.10.0 9999: Turning Pure Data into an embeddable audio synthesis library.
 media-sound/xooky-nabox 9999: A C++ application for running PureData patches on embedded devices.
 net-misc/epoptes-client 9999: Client daemon for Epoptes
 net-misc/ltsp-cluster-lbagent 2.0.2: LTSP Cluster loadbalancer agent
