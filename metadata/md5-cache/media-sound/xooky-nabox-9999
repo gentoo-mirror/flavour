@@ -1,12 +1,12 @@
-DEFINED_PHASES=compile install prepare unpack
-DEPEND=media-sound/libpd media-sound/jack-audio-connection-kit dev-vcs/git
+DEFINED_PHASES=compile install unpack
+DEPEND=media-sound/libpd virtual/jack >=dev-vcs/git-1.8.2.1
 DESCRIPTION=A C++ application for running PureData patches on embedded devices.
-EAPI=2
-HOMEPAGE=http://github.com/rvega/XookyNabox
+EAPI=6
+HOMEPAGE=https://github.com/rvega/XookyNabox
 IUSE=examples
 KEYWORDS=~amd64 ~arm ~x86
-RDEPEND=media-sound/libpd media-sound/jack-audio-connection-kit
+RDEPEND=media-sound/libpd virtual/jack
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-2 src_prepare:- src_compile:- src_install:-
-_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	git-2	7af5d170bfc02983b4bcd3167dc5edd4	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
-_md5_=fe9c97fbdb5e105f33825e295276d1cf
+_eclass_exported_funcs=src_unpack:git-r3 src_compile:- src_install:-
+_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	git-r3	e928b84a9f6f1d9076d1d27687876dc6	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_md5_=3d4201a8521d4305a3d5f44af588bf03
