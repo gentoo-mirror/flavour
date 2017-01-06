@@ -2,7 +2,6 @@
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
 	<upstream>
-		<bugs-to>https://github.com/attardi/wikiextractor/issues</bugs-to>
-		<remote-id type="github">attardi/wikiextractor</remote-id>
+		<remote-id type="github">bluedynamics/vdexcsv</remote-id>
 	</upstream>
 </pkgmetadata>
