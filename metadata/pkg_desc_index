@@ -4,7 +4,7 @@ app-text/wikipedia-extractor 2.6 2.8 2.66 2.67 2.69: Extracts and cleans text fr
 dev-embedded/gpio-tools 9999: Shell library to access the GPIO, designed to be board agnostic.
 dev-embedded/raspberry-gpio-python 0.6.3: a Python module to control the GPIO on a Raspberry Pi
 dev-php/infoflux 1.0 1.1 9999: The Infoflux framework aims to provide developers with an abstraction layer for data sources.
-dev-python/evelink 0.6.1 0.7.2 0.7.4: Python bindings for the EVE API.
+dev-python/evelink 0.6.1 0.7.4 0.7.5: Python bindings for the EVE API.
 dev-python/expynent 0.0.3 0.0.4 9999: Library that provides regex patterns.
 dev-python/imsvdex 1.1: This module takes the VDEX-XML objects and offers an API to them.
 dev-python/mincemeatpy 0.1.4 9999: A Python implementation of the MapReduce distributed computing framework.
