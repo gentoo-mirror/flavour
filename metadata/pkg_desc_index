@@ -11,7 +11,7 @@ dev-python/mincemeatpy 0.1.4 9999: A Python implementation of the MapReduce dist
 dev-python/pijnu 9999: A PEG parser generator and processor, written in Python.
 dev-python/py-postgresql 1.2: Access a PostgreSQL database with Python 3.
 dev-python/python-cqlparser 1.7.4 1.7.5: A parser that builds a CQL parsetree and can convert this into other formats.
-dev-python/readability-score 1.1 9999: This Python library can calculate the readability score of a text.
+dev-python/readability-score 1.1 1.2 9999: This Python library can calculate the readability score of a text.
 dev-python/vdexcsv 1.4: Converts CSV files to IMS VDEX XML.
 dev-python/weightless-core 0.10.9: Weightless is a High Performance Asynchronous Networking Library.
 dev-util/cleanstart 9999: Scripts to setup and use Gentoo test chroot environments
