@@ -23,7 +23,7 @@ media-sound/libpd 0.10.0 9999: Turning Pure Data into an embeddable audio synthe
 media-sound/pure-data 0.47.1 9999: A real-time graphical programming environment for audio and graphics processing.
 media-sound/xooky-nabox 9999: A C++ application for running PureData patches on embedded devices.
 net-misc/epoptes-client 9999: Client daemon for Epoptes
-net-misc/shell-oaiharvester 0.22.2 9999: OAI-PMH harvester built in shell.
+net-misc/shell-oaiharvester 0.22.2 1.0.0 9999: OAI-PMH harvester built in shell.
 www-apps/ilias 4.2.3: ILIAS, the flexible and powerful open source learning management system
 www-apps/ltsp-cluster-control 2.0.2: LTSP Cluster control center
 x11-themes/famfamfam-flag-icons 9999: Flag icons from famfamfam.com.
