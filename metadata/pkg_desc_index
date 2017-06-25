@@ -10,7 +10,7 @@ dev-python/imsvdex 1.1: This module takes the VDEX-XML objects and offers an API
 dev-python/mincemeatpy 0.1.4 9999: A Python implementation of the MapReduce distributed computing framework.
 dev-python/pijnu 9999: A PEG parser generator and processor, written in Python.
 dev-python/py-postgresql 1.2: Access a PostgreSQL database with Python 3.
-dev-python/pylom 1.2.0 1.4.0 9999: Python class for reading IMS-LOM records.
+dev-python/pylom 1.5.0 9999: Python class for reading and writing IMS-LOM records.
 dev-python/python-cqlparser 1.7.4 1.7.5: A parser that builds a CQL parsetree and can convert this into other formats.
 dev-python/readability-score 1.3 2.1 9999: This Python library can calculate the readability score of a text.
 dev-python/vdexcsv 1.4: Converts CSV files to IMS VDEX XML.
