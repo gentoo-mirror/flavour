@@ -2,6 +2,7 @@ app-office/archi 2.4.0: A free, open source, cross-platform tool and editor to c
 app-office/talend-data-integration 5.0.1: A powerful and versatile open source solution for data integration.
 app-text/wikipedia-extractor 2.6 2.8 2.67 2.69 2.75: Extracts and cleans text from Wikipedia database dump.
 dev-db/rdf4j-console 2.2.2: RDF4J console application.
+dev-embedded/adafruit-beaglebone-io-python 1.0.5: Adafruit's BeagleBone IO Python Library
 dev-embedded/gpio-tools 9999: Shell library to access the GPIO, designed to be board agnostic.
 dev-embedded/raspberry-gpio-python 0.6.3: a Python module to control the GPIO on a Raspberry Pi
 dev-php/infoflux 1.0 1.1 9999: The Infoflux framework aims to provide developers with an abstraction layer for data sources.
