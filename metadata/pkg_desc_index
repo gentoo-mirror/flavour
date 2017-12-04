@@ -7,7 +7,7 @@ dev-embedded/gpio-tools 9999: Shell library to access the GPIO, designed to be b
 dev-embedded/raspberry-gpio-python 0.6.3: a Python module to control the GPIO on a Raspberry Pi
 dev-php/infoflux 1.0 1.1 9999: The Infoflux framework aims to provide developers with an abstraction layer for data sources.
 dev-python/evelink 0.6.1 0.7.4 0.7.5: Python bindings for the EVE API.
-dev-python/expynent 0.0.4 0.0.6 9999: Library that provides regex patterns.
+dev-python/expynent 1.0.0 9999: Library that provides regex patterns.
 dev-python/imsvdex 1.1: This module takes the VDEX-XML objects and offers an API to them.
 dev-python/mincemeatpy 0.1.4 9999: A Python implementation of the MapReduce distributed computing framework.
 dev-python/pijnu 9999: A PEG parser generator and processor, written in Python.
