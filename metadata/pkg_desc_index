@@ -1,35 +1,3 @@
-app-office/archi 2.4.0: A free, open source, cross-platform tool and editor to create ArchiMate models.
-app-office/talend-data-integration 5.0.1: A powerful and versatile open source solution for data integration.
-app-text/wikipedia-extractor 2.6 2.8 2.67 2.69 2.75: Extracts and cleans text from Wikipedia database dump.
-dev-db/rdf4j-console 2.2.2: RDF4J console application.
-dev-embedded/adafruit-beaglebone-io-python 1.0.5: Adafruit's BeagleBone IO Python Library
-dev-embedded/gpio-tools 9999: Shell library to access the GPIO, designed to be board agnostic.
-dev-embedded/raspberry-gpio-python 0.6.3: a Python module to control the GPIO on a Raspberry Pi
-dev-php/infoflux 1.0 1.1 9999: The Infoflux framework aims to provide developers with an abstraction layer for data sources.
-dev-python/Fuzzy 1.1 1.2.2: A Python library implementing common phonetic algorithms quickly.
-dev-python/evelink 0.6.1 0.7.4 0.7.5: Python bindings for the EVE API.
-dev-python/expynent 1.0.0 9999: Library that provides regex patterns.
-dev-python/imsvdex 1.1: This module takes the VDEX-XML objects and offers an API to them.
-dev-python/mincemeatpy 0.1.4 9999: A Python implementation of the MapReduce distributed computing framework.
-dev-python/pijnu 9999: A PEG parser generator and processor, written in Python.
-dev-python/py-postgresql 1.2: Access a PostgreSQL database with Python 3.
-dev-python/pylom 1.5.0 9999: Python class for reading and writing IMS-LOM records.
-dev-python/python-cqlparser 1.7.4 1.7.5: A parser that builds a CQL parsetree and can convert this into other formats.
-dev-python/readability-score 1.3 2.1 9999: This Python library can calculate the readability score of a text.
-dev-python/vdexcsv 1.4: Converts CSV files to IMS VDEX XML.
-dev-python/weightless-core 0.10.9 0.10.10.1: Weightless is a High Performance Asynchronous Networking Library.
-dev-util/cleanstart 9999: Scripts to setup and use Gentoo test chroot environments
-dev-util/depot_tools 9999: Chromium uses a package of scripts, the depot_tools, to manage interaction with the Chromium source code repository and the Chromium development process.
-dev-util/gitlab-ci-multi-runner-bin 1.4.1: The binary Debian package of the GitLab CI Runner.
-dev-util/soapui 5.2.1 5.3.0: SoapUI is a free and open source cross-platform Functional Testing solution.
-media-libs/fcam 1.1.2-r1: FCam is an open-source C++ API for easy and precise control of digital cameras.
-media-sound/libpd 0.10.0 9999: Turning Pure Data into an embeddable audio synthesis library.
-media-sound/pure-data 0.47.1 9999: A real-time graphical programming environment for audio and graphics processing.
-media-sound/xooky-nabox 9999: A C++ application for running PureData patches on embedded devices.
-net-misc/epoptes-client 9999: Client daemon for Epoptes
-net-misc/shell-oaiharvester 1.0.0 1.1.0 9999: OAI-PMH harvester built in shell.
-sys-auth/keytalk-client-bin 5.2.1: Retrieve command prompt based KeyTalk issued certificates.
-www-apps/ilias 4.2.3: ILIAS, the flexible and powerful open source learning management system
-www-apps/ltsp-cluster-control 2.0.2: LTSP Cluster control center
+net-misc/shell-oaiharvester 1.0.0 1.1.0: OAI-PMH harvester built in shell.
 x11-themes/famfamfam-flag-icons 9999: Flag icons from famfamfam.com.
 x11-themes/famfamfam-silk-icons 1.3: Silk iconset from famfamfam.com.
