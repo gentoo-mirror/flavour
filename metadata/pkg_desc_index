@@ -1,3 +1,4 @@
+dev-python/python-cqlparser 1.7.5: A parser that builds a CQL parsetree and can convert this into other formats.
 dev-util/soapui-bin 5.2.1: SoapUI is a free and open source cross-platform Functional Testing solution.
 net-misc/shell-oaiharvester 1.0.0 1.1.0: OAI-PMH harvester built in shell.
 x11-themes/famfamfam-flag-icons 9999: Flag icons from famfamfam.com.
