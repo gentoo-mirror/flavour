@@ -9,4 +9,4 @@ RDEPEND=app-misc/ca-certificates <dev-libs/openssl-1.1 sys-apps/hdparm sys-proce
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://downloads.keytalk.com/downloads/KTlinuxapacheclient.5.2.1.zip
-_md5_=e7d48bf1db0b0fe3a7ebe450a85f87af
+_md5_=74c899529f4e0c7c271c1c015a09759d
