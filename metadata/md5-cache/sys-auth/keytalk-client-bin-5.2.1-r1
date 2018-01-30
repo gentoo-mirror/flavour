@@ -1,4 +1,4 @@
-DEFINED_PHASES=install unpack
+DEFINED_PHASES=install postinst unpack
 DEPEND=app-arch/unzip
 DESCRIPTION=Retrieve command prompt based KeyTalk issued certificates.
 EAPI=6
@@ -9,4 +9,4 @@ RDEPEND=app-misc/ca-certificates <dev-libs/openssl-1.1 sys-apps/hdparm sys-proce
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://downloads.keytalk.com/downloads/KTlinuxapacheclient.5.2.1.zip
-_md5_=4086a9fab790d7d6fcbffab96b195fe9
+_md5_=96d4ab65efafb0cd6350960f0b5131eb
