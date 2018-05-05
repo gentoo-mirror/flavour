@@ -1,4 +1,4 @@
-DEFINED_PHASES=compile install prepare
+DEFINED_PHASES=compile install nofetch prepare
 DEPEND=app-arch/unzip
 DESCRIPTION=FCam is an open-source C++ API for easy and precise control of digital cameras.
 EAPI=2
