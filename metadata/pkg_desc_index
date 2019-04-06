@@ -1,4 +1,5 @@
 dev-python/expynent 1.0.0 2.0.0: Library that provides regex patterns.
+dev-python/mwparserfromhell 0.5.2 0.5.3: A Python parser for MediaWiki wikicode.
 dev-python/python-cqlparser 1.7.5 1.7.6: A parser that builds a CQL parsetree and can convert this into other formats.
 dev-python/syntok 1.0.2: Text tokenization and sentence segmentation.
 dev-util/soapui-bin 5.2.1: SoapUI is a free and open source cross-platform Functional Testing solution.
