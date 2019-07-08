@@ -1,4 +1,3 @@
-app-text/ims-schemas 20190424: Bundle of IMS XML validation schemas
 dev-python/eduterm-client 0.2.0: Python library for interfacing with Eduterm
 dev-python/expynent 1.0.0 2.0.0: Library that provides regex patterns.
 dev-python/mwparserfromhell 0.5.3 0.5.4: A Python parser for MediaWiki wikicode.
