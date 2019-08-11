@@ -1,9 +1,32 @@
+app-misc/argoid-client 1.2.0-r1: Scheduler for sensor driven interactions
+app-text/ims-schemas 20190424: Bundle of IMS XML validation schemas
+dev-db/rdf4j-console-bin 2.2.4-r1: RDF4J console application.
+dev-embedded/adafruit-beaglebone-io-python 1.0.10 1.1.0: Adafruit's BeagleBone IO Python Library
+dev-embedded/beaglebone-universal-io 20171207 20180611: Contains config-pin, an easy-to-use pin configuration script.
+dev-embedded/raspberry-gpio-python 0.6.5: a Python module to control the GPIO on a Raspberry Pi
+dev-java/xsdv 1.1: Commandline wrapper for Java XSD validation
+dev-python/Fuzzy 1.1 1.2.2: A Python library implementing common phonetic algorithms quickly.
 dev-python/eduterm-client 0.2.0: Python library for interfacing with Eduterm
-dev-python/expynent 1.0.0 2.0.0: Library that provides regex patterns.
+dev-python/evelink 0.6.1 0.7.5: Python bindings for the EVE API.
+dev-python/expynent 1.0.0 2.0.0 9999: Library that provides regex patterns.
+dev-python/imsvdex 1.1: This module takes the VDEX-XML objects and offers an API to them.
 dev-python/mwparserfromhell 0.5.3 0.5.4: A Python parser for MediaWiki wikicode.
+dev-python/pijnu 9999 20160728: A PEG parser generator and processor, written in Python.
+dev-python/pylom 1.5.0 1.5.2 9999: Python class for reading and writing IMS-LOM records.
 dev-python/python-cqlparser 1.7.5 1.7.6: A parser that builds a CQL parsetree and can convert this into other formats.
+dev-python/readability-score 2.1 9999: This Python library can calculate the readability score of a text.
 dev-python/syntok 1.0.2: Text tokenization and sentence segmentation.
-dev-util/soapui-bin 5.2.1: SoapUI is a free and open source cross-platform Functional Testing solution.
+dev-python/url-normalize 1.4.1: URL normalization for Python
+dev-python/vdexcsv 1.4: Converts CSV files to IMS VDEX XML.
+dev-python/weightless-core 0.10.10.1 0.10.13.1: Weightless is a High Performance Asynchronous Networking Library.
+dev-util/cleanstart 9999: Scripts to setup and use Gentoo test chroot environments
+dev-util/depot_tools 9999: Tools for working with Chromium development.
+dev-util/soapui-bin 5.2.1 5.4.0: SoapUI is a free and open source cross-platform Functional Testing solution.
+media-libs/fcam 1.1.2-r1: FCam is an open-source C++ API for easy and precise control of digital cameras.
+media-sound/libpd 0.10.0 0.11.0 9999: Turning Pure Data into an embeddable audio synthesis library.
+media-sound/pure-data 0.47.1 0.48.1 9999: A real-time graphical programming environment for audio and graphics processing.
+media-sound/xooky-nabox 9999: A C++ application for running PureData patches on embedded devices.
 net-misc/shell-oaiharvester 1.0.0 1.1.0: OAI-PMH harvester built in shell.
+sys-auth/keytalk-client-bin 5.2.1-r4 5.5.1: Retrieve command prompt based KeyTalk issued certificates.
 x11-themes/famfamfam-flag-icons 9999: Flag icons from famfamfam.com.
 x11-themes/famfamfam-silk-icons 1.3: Silk iconset from famfamfam.com.

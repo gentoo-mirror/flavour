@@ -2,3 +2,8 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-text/ims-schemas:contentpackage - Install imscp schema's.
+app-text/ims-schemas:metadata - Install imsmd schema's.
+app-text/ims-schemas:qti - Install imsqti schema's.
+app-text/ims-schemas:vdex - Install imsvdex schema's.
+media-sound/pure-data:portmidi - Enable portmidi support.
