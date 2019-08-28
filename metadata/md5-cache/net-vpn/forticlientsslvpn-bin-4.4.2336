@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=AUR build for forticlientsslvpn_cli
+EAPI=7
+HOMEPAGE=https://github.com/machtelik/forticlientsslvpn
+KEYWORDS=~amd64 ~x86
+LICENSE=FortiClientSSLVPN
+RDEPEND=net-dialup/ppp
+RESTRICT=strip mirror
+SLOT=0
+SRC_URI=https://github.com/machtelik/forticlientsslvpn/raw/master/tarball/forticlientsslvpn_linux_4.4.2336.tar.gz -> forticlientsslvpn-bin-4.4.2336.tar.gz
+_md5_=e723b805a9ffd988df323117a968f027
