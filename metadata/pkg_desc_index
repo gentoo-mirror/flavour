@@ -21,7 +21,7 @@ dev-python/vdexcsv 1.4: Converts CSV files to IMS VDEX XML.
 dev-python/weightless-core 0.10.10.1 0.10.13.1: Weightless is a High Performance Asynchronous Networking Library.
 dev-util/cleanstart 9999: Scripts to setup and use Gentoo test chroot environments
 dev-util/depot_tools 9999: Tools for working with Chromium development.
-dev-util/soapui-bin 5.2.1 5.4.0: SoapUI is a free and open source cross-platform Functional Testing solution.
+dev-util/soapui-bin 5.4.0 5.5.0: SoapUI is a free and open source cross-platform Functional Testing solution.
 media-libs/fcam 1.1.2-r1: FCam is an open-source C++ API for easy and precise control of digital cameras.
 media-sound/libpd 0.10.0 0.11.0 9999: Turning Pure Data into an embeddable audio synthesis library.
 media-sound/pure-data 0.47.1 0.48.1 9999: A real-time graphical programming environment for audio and graphics processing.
