@@ -3,7 +3,7 @@ app-text/ims-schemas 20190424: Bundle of IMS XML validation schemas
 dev-db/rdf4j-console-bin 2.2.4-r1: RDF4J console application.
 dev-embedded/adafruit-beaglebone-io-python 1.0.10 1.1.0: Adafruit's BeagleBone IO Python Library
 dev-embedded/beaglebone-universal-io 20171207 20180611: Contains config-pin, an easy-to-use pin configuration script.
-dev-embedded/raspberry-gpio-python 0.6.5: a Python module to control the GPIO on a Raspberry Pi
+dev-embedded/raspberry-gpio-python 0.6.5 0.7.0: a Python module to control the GPIO on a Raspberry Pi
 dev-java/xsdv 1.1: Commandline wrapper for Java XSD validation
 dev-python/Fuzzy 1.1 1.2.2: A Python library implementing common phonetic algorithms quickly.
 dev-python/eduterm-client 0.2.0: Python library for interfacing with Eduterm
