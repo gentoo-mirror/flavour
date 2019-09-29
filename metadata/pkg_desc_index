@@ -18,7 +18,7 @@ dev-python/readability-score 2.1 9999: This Python library can calculate the rea
 dev-python/syntok 1.0.2: Text tokenization and sentence segmentation.
 dev-python/url-normalize 1.4.1: URL normalization for Python
 dev-python/vdexcsv 1.4: Converts CSV files to IMS VDEX XML.
-dev-python/weightless-core 0.10.10.1 0.10.13.1: Weightless is a High Performance Asynchronous Networking Library.
+dev-python/weightless-core 0.10.13.1 0.11: Weightless is a High Performance Asynchronous Networking Library.
 dev-util/cleanstart 9999: Scripts to setup and use Gentoo test chroot environments
 dev-util/depot_tools 9999: Tools for working with Chromium development.
 dev-util/soapui-bin 5.4.0 5.5.0: SoapUI is a free and open source cross-platform Functional Testing solution.
