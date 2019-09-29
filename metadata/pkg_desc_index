@@ -8,7 +8,7 @@ dev-java/xsdv 1.1: Commandline wrapper for Java XSD validation
 dev-python/Fuzzy 1.1 1.2.2: A Python library implementing common phonetic algorithms quickly.
 dev-python/eduterm-client 0.2.0: Python library for interfacing with Eduterm
 dev-python/evelink 0.6.1 0.7.5: Python bindings for the EVE API.
-dev-python/expynent 1.0.0 2.0.0 9999: Library that provides regex patterns.
+dev-python/expynent 1.0.0 2.0.0: Library that provides regex patterns.
 dev-python/imsvdex 1.1: This module takes the VDEX-XML objects and offers an API to them.
 dev-python/mwparserfromhell 0.5.3 0.5.4: A Python parser for MediaWiki wikicode.
 dev-python/pijnu 9999 20160728: A PEG parser generator and processor, written in Python.
