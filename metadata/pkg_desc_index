@@ -15,7 +15,7 @@ dev-python/pijnu 9999 20160728: A PEG parser generator and processor, written in
 dev-python/pylom 1.5.0 1.5.2 9999: Python class for reading and writing IMS-LOM records.
 dev-python/python-cqlparser 1.7.5 1.7.6: A parser that builds a CQL parsetree and can convert this into other formats.
 dev-python/readability-score 2.1 9999: This Python library can calculate the readability score of a text.
-dev-python/syntok 1.0.2: Text tokenization and sentence segmentation.
+dev-python/syntok 1.0.2 1.2.1: Text tokenization and sentence segmentation.
 dev-python/url-normalize 1.4.1: URL normalization for Python
 dev-python/vdexcsv 1.4: Converts CSV files to IMS VDEX XML.
 dev-python/weightless-core 0.10.13.1 0.11: Weightless is a High Performance Asynchronous Networking Library.
