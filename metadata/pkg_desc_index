@@ -11,7 +11,6 @@ dev-python/evelink 0.6.1 0.7.5: Python bindings for the EVE API.
 dev-python/expynent 1.0.0 2.0.0: Library that provides regex patterns.
 dev-python/imsvdex 1.1: This module takes the VDEX-XML objects and offers an API to them.
 dev-python/mwparserfromhell 0.5.3 0.5.4: A Python parser for MediaWiki wikicode.
-dev-python/pijnu 9999 20160728: A PEG parser generator and processor, written in Python.
 dev-python/pylom 1.5.0 1.5.2 9999: Python class for reading and writing IMS-LOM records.
 dev-python/python-cqlparser 1.7.5 1.7.6: A parser that builds a CQL parsetree and can convert this into other formats.
 dev-python/readability-score 2.1 9999: This Python library can calculate the readability score of a text.
