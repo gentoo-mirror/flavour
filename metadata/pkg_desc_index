@@ -16,7 +16,6 @@ dev-python/python-cqlparser 1.7.5 1.7.6: A parser that builds a CQL parsetree an
 dev-python/readability-score 2.1 9999: This Python library can calculate the readability score of a text.
 dev-python/syntok 1.2.1 1.2.2: Text tokenization and sentence segmentation.
 dev-python/url-normalize 1.4.1: URL normalization for Python
-dev-python/vdexcsv 1.4: Converts CSV files to IMS VDEX XML.
 dev-python/weightless-core 0.10.13.1 0.11: Weightless is a High Performance Asynchronous Networking Library.
 dev-util/cleanstart 9999: Scripts to setup and use Gentoo test chroot environments
 dev-util/depot_tools 9999: Tools for working with Chromium development.
