@@ -24,7 +24,7 @@ media-libs/fcam 1.1.2-r1: FCam is an open-source C++ API for easy and precise co
 media-sound/libpd 0.10.0 0.11.0 9999: Turning Pure Data into an embeddable audio synthesis library.
 media-sound/pure-data 0.47.1 0.48.1 9999: A real-time graphical programming environment for audio and graphics processing.
 media-sound/xooky-nabox 9999: A C++ application for running PureData patches on embedded devices.
-net-misc/shell-oaiharvester 1.4.0 1.4.1: OAI-PMH harvester built in shell.
+net-misc/shell-oaiharvester 1.4.1 2.0.0: OAI-PMH harvester built in shell.
 net-vpn/forticlientsslvpn-bin 4.4.2336: AUR build for forticlientsslvpn_cli
 sys-auth/keytalk-client-bin 5.2.1-r4 5.5.1-r1: Retrieve command prompt based KeyTalk issued certificates.
 x11-themes/famfamfam-flag-icons 9999: Flag icons from famfamfam.com.
