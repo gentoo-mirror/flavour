@@ -16,7 +16,7 @@ dev-python/python-cqlparser 1.7.5 1.7.6: A parser that builds a CQL parsetree an
 dev-python/readability-score 2.1 9999: This Python library can calculate the readability score of a text.
 dev-python/syntok 1.2.1 1.2.2: Text tokenization and sentence segmentation.
 dev-python/url-normalize 1.4.1: URL normalization for Python
-dev-python/weightless-core 0.10.13.1 0.11: Weightless is a High Performance Asynchronous Networking Library.
+dev-python/weightless-core 0.10.13.4: Weightless is a High Performance Asynchronous Networking Library.
 dev-util/cleanstart 0.5.0: Tool to setup and use Gentoo test chroot environments
 dev-util/depot_tools 9999: Tools for working with Chromium development.
 dev-util/soapui-bin 5.4.0 5.5.0: SoapUI is a free and open source cross-platform Functional Testing solution.
