@@ -1,16 +1,15 @@
-BDEPEND=python_targets_python3_6? ( dev-lang/python:3.6 ) python_targets_python3_7? ( dev-lang/python:3.7 ) >=dev-lang/python-exec-2:=[python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_6(-),-python_single_target_python3_7(-)] dev-python/setuptools[python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_6(-),-python_single_target_python3_7(-)] >=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=compile configure install prepare test unpack
-DEPEND=dev-python/setuptools[python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_6(-),-python_single_target_python3_7(-)]
+BDEPEND=python_targets_python3_6? ( dev-lang/python:3.6 ) python_targets_python3_7? ( dev-lang/python:3.7 ) >=dev-lang/python-exec-2:=[python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_6(-),-python_single_target_python3_7(-)] dev-python/setuptools[python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_6(-),-python_single_target_python3_7(-)]
+DEFINED_PHASES=compile configure install prepare test
 DESCRIPTION=Gentoo Github PR analysis tool
 EAPI=7
 HOMEPAGE=https://github.com/wimmuskee/gengee
 IUSE=python_targets_python3_6 python_targets_python3_7
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-PROPERTIES=live
 RDEPEND=dev-python/lxml[python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_6(-),-python_single_target_python3_7(-)] dev-python/PyGithub[python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_6(-),-python_single_target_python3_7(-)] dev-python/prettytable[python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_6(-),-python_single_target_python3_7(-)] sys-apps/portage[python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_6(-),-python_single_target_python3_7(-)] python_targets_python3_6? ( dev-lang/python:3.6 ) python_targets_python3_7? ( dev-lang/python:3.7 ) >=dev-lang/python-exec-2:=[python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_6(-),-python_single_target_python3_7(-)]
 REQUIRED_USE=|| ( python_targets_python3_6 python_targets_python3_7 )
 RESTRICT=mirror
 SLOT=0
-_eclasses_=distutils-r1	c576838cd67e384002a18edd54be710e	git-r3	809e27702c573cbba31c08ed00bbad33	multibuild	40fe59465edacd730c644ec2bc197809	multilib	1d91b03d42ab6308b5f4f6b598ed110e	multiprocessing	cac3169468f893670dac3e7cb940e045	python-r1	4eed5e0c72d4544a2291ae46515f5d79	python-utils-r1	611c493a4cfef5254350fabc04b606f5	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
-_md5_=83fae0b2914c306d21eb9023ec42ba3d
+SRC_URI=https://github.com/wimmuskee/gengee/archive/1.2.2.tar.gz -> gengee-1.2.2.tar.gz
+_eclasses_=distutils-r1	c576838cd67e384002a18edd54be710e	multibuild	40fe59465edacd730c644ec2bc197809	multilib	1d91b03d42ab6308b5f4f6b598ed110e	multiprocessing	cac3169468f893670dac3e7cb940e045	python-r1	4eed5e0c72d4544a2291ae46515f5d79	python-utils-r1	611c493a4cfef5254350fabc04b606f5	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_md5_=d64e5f68549be9bc251620af4fe3da45
