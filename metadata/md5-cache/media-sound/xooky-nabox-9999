@@ -9,5 +9,5 @@ LICENSE=all-rights-reserved
 PROPERTIES=live
 RDEPEND=media-sound/libpd virtual/jack
 SLOT=0
-_eclasses_=git-r3	8ec5b53812bce105ae7943930e4660f8
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
 _md5_=eec522852ef9505522b6390f77b4334f
