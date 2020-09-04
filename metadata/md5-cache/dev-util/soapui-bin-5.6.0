@@ -1,11 +1,12 @@
 DEFINED_PHASES=install postinst
 DESCRIPTION=SoapUI is a free and open source cross-platform Functional Testing solution.
-EAPI=6
+EAPI=7
 HOMEPAGE=https://www.soapui.org/
-KEYWORDS=amd64 x86
+IUSE=examples
+KEYWORDS=~amd64 ~x86
 LICENSE=SmartBear
 RDEPEND=>=virtual/jre-1.6
 RESTRICT=bindist strip mirror
 SLOT=0
-SRC_URI=https://s3.amazonaws.com/downloads.eviware/soapuios/5.4.0/SoapUI-5.4.0-linux-bin.tar.gz
-_md5_=adc3ccea299d016020af37933d829459
+SRC_URI=https://s3.amazonaws.com/downloads.eviware/soapuios/5.6.0/SoapUI-5.6.0-linux-bin.tar.gz
+_md5_=c5619626c7246ca66e38e6b7e6ebef53
