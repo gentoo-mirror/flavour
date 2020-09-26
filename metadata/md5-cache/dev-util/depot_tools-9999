@@ -9,4 +9,4 @@ PROPERTIES=live
 RDEPEND=app-admin/sudo
 SLOT=0
 _eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
-_md5_=0e056dea06fd9c22ba470ef0bdf7f7ce
+_md5_=e253fa1af2aa30e71b4d352cb1efc70b
