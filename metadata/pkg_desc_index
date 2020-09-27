@@ -1,10 +1,10 @@
-app-misc/argoid-client 1.2.0-r1: Scheduler for sensor driven interactions
+app-misc/argoid-client 1.2.0-r2: Scheduler for sensor driven interactions
 app-portage/gengee 2.1.0 2.2.0: Gentoo Github PR analysis tool
 app-text/ims-schemas 20190424: Bundle of IMS XML validation schemas
 dev-db/rdf4j-console-bin 2.2.4-r1: RDF4J console application.
 dev-embedded/adafruit-beaglebone-io-python 1.1.0-r1 1.2.0: Adafruit's BeagleBone IO Python Library
 dev-embedded/beaglebone-universal-io 20180611 20190121: Contains config-pin, an easy-to-use pin configuration script.
-dev-embedded/raspberry-gpio-python 0.6.5 0.7.0: a Python module to control the GPIO on a Raspberry Pi
+dev-embedded/raspberry-gpio-python 0.7.0-r1: a Python module to control the GPIO on a Raspberry Pi
 dev-java/xsdv 1.1: Commandline wrapper for Java XSD validation
 dev-python/Fuzzy 1.2.2: A Python library implementing common phonetic algorithms quickly.
 dev-python/anybadge 1.7.0: A Python project for generating badges for your projects
