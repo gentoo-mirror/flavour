@@ -1,15 +1,16 @@
-BDEPEND=>=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 >=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=configure prepare unpack
+BDEPEND=>=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DEFINED_PHASES=configure prepare
 DEPEND=sys-libs/glibc alsa? ( media-libs/alsa-lib ) jack? ( virtual/jack ) nls? ( sys-devel/gettext ) portaudio? ( media-libs/portaudio ) portmidi? ( media-libs/portmidi )
 DESCRIPTION=A real-time graphical programming environment for audio and graphics processing.
 EAPI=7
 HOMEPAGE=https://puredata.info/
 IUSE=+alsa jack nls +oss portaudio portmidi
+KEYWORDS=~amd64 ~x86
 LICENSE=BSD
-PROPERTIES=live
 RDEPEND=sys-libs/glibc alsa? ( media-libs/alsa-lib ) jack? ( virtual/jack ) nls? ( sys-devel/gettext ) portaudio? ( media-libs/portaudio ) portmidi? ( media-libs/portmidi ) dev-lang/tcl dev-lang/tk
 REQUIRED_USE=portmidi? ( !oss )
 RESTRICT=mirror
 SLOT=0
-_eclasses_=autotools	7d999b62b8749fad43fff00620cedf47	git-r3	3e7ec3d6619213460c85e2aa48398441	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	98584e405e2b0264d37e8f728327fed1	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
-_md5_=3fc2be0683865fe7e6812ca26fb0ae12
+SRC_URI=https://github.com/pure-data/pure-data/archive/0.51-2.tar.gz -> pure-data-0.51.2.tar.gz
+_eclasses_=autotools	7d999b62b8749fad43fff00620cedf47	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	98584e405e2b0264d37e8f728327fed1	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
+_md5_=1b5a5865fa2751bd2fa44dcbf382cbd2
