@@ -7,3 +7,4 @@ app-text/ims-schemas:metadata - Install imsmd schema's.
 app-text/ims-schemas:qti - Install imsqti schema's.
 app-text/ims-schemas:vdex - Install imsvdex schema's.
 media-sound/pure-data:portmidi - Enable portmidi support.
+net-misc/shell-oaiharvester:validation - Enable xmllint validation support.
