@@ -1,15 +1,15 @@
 BDEPEND=>=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
 DEFINED_PHASES=prepare test
-DEPEND=sys-apps/help2man test? ( app-arch/xz-utils app-shells/bash:* dev-libs/libxslt net-misc/curl sys-apps/grep sys-devel/bc validation? ( dev-libs/libxml2 ) )
+DEPEND=sys-apps/help2man test? ( app-shells/bash:* dev-libs/libxslt net-misc/curl sys-apps/grep sys-apps/sed validation? ( dev-libs/libxml2 ) )
 DESCRIPTION=OAI-PMH harvester built in shell
 EAPI=7
 HOMEPAGE=https://github.com/wimmuskee/shell-oaiharvester
 IUSE=test validation
-KEYWORDS=amd64 ~arm ~arm64 x86
+KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=GPL-3
-RDEPEND=app-arch/xz-utils app-shells/bash:* dev-libs/libxslt net-misc/curl sys-apps/grep sys-devel/bc validation? ( dev-libs/libxml2 )
+RDEPEND=app-shells/bash:* dev-libs/libxslt net-misc/curl sys-apps/grep sys-apps/sed validation? ( dev-libs/libxml2 )
 RESTRICT=mirror !test? ( test )
 SLOT=0
-SRC_URI=https://github.com/wimmuskee/shell-oaiharvester/archive/2.1.2.tar.gz -> shell-oaiharvester-2.1.2.tar.gz
+SRC_URI=https://github.com/wimmuskee/shell-oaiharvester/archive/2.2.0.tar.gz -> shell-oaiharvester-2.2.0.tar.gz
 _eclasses_=autotools	3ec5e49b810b2571ca9c6d76f55867bb	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
-_md5_=0ef57469f02ce3efb7806c22a5e538c8
+_md5_=6f5bcd59b19df3191c5e45add658ba18
