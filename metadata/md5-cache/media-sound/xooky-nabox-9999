@@ -3,11 +3,12 @@ DEPEND=media-sound/libpd virtual/jack >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=A C++ application for running PureData patches on embedded devices.
 EAPI=6
 HOMEPAGE=https://github.com/rvega/XookyNabox
+INHERIT=git-r3
 IUSE=examples
-KEYWORDS=~amd64 ~arm ~x86
+KEYWORDS=~amd64 ~x86
 LICENSE=all-rights-reserved
 PROPERTIES=live
 RDEPEND=media-sound/libpd virtual/jack
 SLOT=0
 _eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
-_md5_=eec522852ef9505522b6390f77b4334f
+_md5_=bd86e72e41ab015d1ba8521eac98c425
