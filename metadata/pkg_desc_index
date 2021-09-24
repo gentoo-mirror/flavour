@@ -13,7 +13,7 @@ dev-python/mwparserfromhell 0.6.2 0.6.3: A Python parser for MediaWiki wikicode
 dev-python/pylom 1.6.2 1.6.3: Python class for reading and writing IMS-LOM records.
 dev-python/pyphonetics 0.5.3: A Python 3 library for phonetic algorithms
 dev-python/python-cqlparser 1.8.0: A parser that builds a CQL parsetree and can convert this into other formats.
-dev-python/rdflib-jsonld 0.5.0: rdflib extension adding JSON-LD parser and serializer
+dev-python/rdflib-jsonld 0.5.0 0.6.1: rdflib extension adding JSON-LD parser and serializer
 dev-python/readability-score 2.1 9999: This Python library can calculate the readability score of a text.
 dev-python/simbak 0.4.1 0.4.2: A simple backup solution
 dev-python/syntok 1.3.1: Text tokenization and sentence segmentation.
