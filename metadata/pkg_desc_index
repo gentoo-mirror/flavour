@@ -5,7 +5,7 @@ dev-embedded/adafruit-beaglebone-io-python 1.1.0-r1 1.2.0: Adafruit's BeagleBone
 dev-embedded/beaglebone-universal-io 20180611 20190121: Contains config-pin, an easy-to-use pin configuration script.
 dev-embedded/raspberry-gpio-python 0.7.0-r1: a Python module to control the GPIO on a Raspberry Pi
 dev-java/xsdv 1.1: Commandline wrapper for Java XSD validation
-dev-python/anybadge 1.7.0: A Python project for generating badges for your projects
+dev-python/anybadge 1.8.0: A Python project for generating badges for your projects
 dev-python/eduterm-client 0.2.1: Python library for interfacing with Eduterm
 dev-python/expynent 2.0.0: Library that provides regex patterns.
 dev-python/imsvdex 1.2: This module takes the VDEX-XML objects and offers an API to them.
