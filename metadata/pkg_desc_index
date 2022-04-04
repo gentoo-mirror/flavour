@@ -21,7 +21,7 @@ dev-python/weightless-core 0.13.1: Weightless is a High Performance Asynchronous
 dev-util/cleanstart 0.5.0: Tool to setup and use Gentoo test chroot environments
 dev-util/depot_tools 9999: Tools for working with Chromium development.
 dev-util/jmeter-bin 5.3 5.4.3: Pure Java application to load test functional behavior and measure performance
-dev-util/soapui-bin 5.5.0 5.6.0: SoapUI is a free and open source cross-platform Functional Testing solution.
+dev-util/soapui-bin 5.5.0 5.7.0: SoapUI is a free and open source cross-platform Functional Testing solution.
 media-sound/libpd 0.11.0-r1 9999: Turning Pure Data into an embeddable audio synthesis library.
 media-sound/pure-data 0.48.1 0.51.2 9999: A real-time graphical programming environment for audio and graphics processing.
 media-sound/xooky-nabox 9999: A C++ application for running PureData patches on embedded devices.

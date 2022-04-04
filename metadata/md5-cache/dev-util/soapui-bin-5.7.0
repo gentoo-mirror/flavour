@@ -5,8 +5,8 @@ HOMEPAGE=https://www.soapui.org/
 IUSE=examples
 KEYWORDS=~amd64 ~x86
 LICENSE=SmartBear
-RDEPEND=>=virtual/jre-1.6
+RDEPEND=>=virtual/jre-11
 RESTRICT=bindist strip mirror
 SLOT=0
-SRC_URI=https://s3.amazonaws.com/downloads.eviware/soapuios/5.6.0/SoapUI-5.6.0-linux-bin.tar.gz
-_md5_=c5619626c7246ca66e38e6b7e6ebef53
+SRC_URI=https://s3.amazonaws.com/downloads.eviware/soapuios/5.7.0/SoapUI-5.7.0-linux-bin.tar.gz
+_md5_=a48c3c81dbf841050927bd933704c8fd
