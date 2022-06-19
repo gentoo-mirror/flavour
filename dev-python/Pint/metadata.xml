@@ -2,6 +2,7 @@
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
 	<upstream>
-		<remote-id type="github">RDFLib/rdflib-jsonld</remote-id>
+		<remote-id type="github">hgrecco/pint</remote-id>
+		<remote-id type="pypi">Pint</remote-id>
 	</upstream>
 </pkgmetadata>
