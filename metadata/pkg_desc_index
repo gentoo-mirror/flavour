@@ -26,7 +26,7 @@ dev-util/soapui-bin 5.5.0 5.7.0: SoapUI is a free and open source cross-platform
 media-sound/libpd 0.11.0-r1 9999: Turning Pure Data into an embeddable audio synthesis library.
 media-sound/pure-data 0.48.1 0.51.2 9999: A real-time graphical programming environment for audio and graphics processing.
 media-sound/xooky-nabox 9999: A C++ application for running PureData patches on embedded devices.
-net-misc/shell-oaiharvester 2.3.1 2.4.0: OAI-PMH harvester built in shell
+net-misc/shell-oaiharvester 2.4.0 2.5.0: OAI-PMH harvester built in shell
 net-vpn/forticlientsslvpn-bin 4.4.2336: AUR build for forticlientsslvpn_cli
 x11-themes/famfamfam-flag-icons 9999: Flag icons from famfamfam.com.
 x11-themes/famfamfam-silk-icons 1.3: Silk iconset from famfamfam.com.
