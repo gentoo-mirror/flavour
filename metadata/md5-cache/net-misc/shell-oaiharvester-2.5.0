@@ -1,4 +1,4 @@
-BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71 >=sys-devel/libtool-2.4
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7
 DEFINED_PHASES=prepare test
 DEPEND=sys-apps/help2man test? ( app-shells/bash:* dev-libs/libxslt net-misc/curl sys-apps/grep sys-apps/sed validation? ( dev-libs/libxml2 ) )
 DESCRIPTION=OAI-PMH harvester built in shell
@@ -12,5 +12,5 @@ RDEPEND=app-shells/bash:* dev-libs/libxslt net-misc/curl sys-apps/grep sys-apps/
 RESTRICT=mirror !test? ( test )
 SLOT=0
 SRC_URI=https://github.com/wimmuskee/shell-oaiharvester/archive/2.5.0.tar.gz -> shell-oaiharvester-2.5.0.tar.gz
-_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	9e6965bfaa00f52cc61e0d4bc44c87b3
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	914b385ae0716861815cb660457b6cdc
 _md5_=c911c17850bcf3d22c2e625120919a33
