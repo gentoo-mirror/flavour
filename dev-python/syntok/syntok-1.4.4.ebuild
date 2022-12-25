@@ -3,7 +3,7 @@
 
 EAPI="8"
 
-DISTUTILS_USE_PEP517=setuptools
+DISTUTILS_USE_PEP517=poetry
 PYTHON_COMPAT=( python3_{8..11} )
 inherit distutils-r1
 
@@ -12,7 +12,7 @@ HOMEPAGE="https://github.com/fnl/syntok"
 SRC_URI="https://github.com/fnl/${PN}/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 LICENSE="MIT"
 SLOT="0"
-KEYWORDS="amd64 ~arm ~arm64 x86"
+KEYWORDS="~amd64 ~arm ~arm64 ~x86"
 RESTRICT="mirror"
 RDEPEND="dev-python/regex[${PYTHON_USEDEP}]"
 
