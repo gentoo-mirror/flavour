@@ -1,4 +1,3 @@
-app-misc/argoid-client 1.2.0-r2: Scheduler for sensor driven interactions
 app-portage/gengee 2.2.1: Gentoo Github PR analysis tool
 app-text/ims-schemas 20190424: Bundle of IMS XML validation schemas
 dev-embedded/adafruit-beaglebone-io-python 1.2.0: Adafruit's BeagleBone IO Python Library
@@ -15,7 +14,6 @@ dev-python/pylom 1.6.3: Python class for reading and writing IMS-LOM records.
 dev-python/pyphonetics 0.5.3: A Python 3 library for phonetic algorithms
 dev-python/python-OBD 0.7.1: Serial module for handling live sensor data from a vehicle's OBD-II port
 dev-python/python-cqlparser 1.8.0: A parser that builds a CQL parsetree and can convert this into other formats.
-dev-python/readability-score 2.1 9999: This Python library can calculate the readability score of a text.
 dev-python/simbak 0.4.2: A simple backup solution
 dev-python/syntok 1.3.2 1.4.4: Text tokenization and sentence segmentation.
 dev-python/weightless-core 0.13.1: Weightless is a High Performance Asynchronous Networking Library.
@@ -23,7 +21,6 @@ dev-util/cleanstart 0.5.0: Tool to setup and use Gentoo test chroot environments
 dev-util/depot_tools 9999: Tools for working with Chromium development.
 dev-util/jmeter-bin 5.3 5.4.3: Pure Java application to load test functional behavior and measure performance
 dev-util/soapui-bin 5.5.0 5.7.0: SoapUI is a free and open source cross-platform Functional Testing solution.
-media-sound/libpd 0.11.0-r1 9999: Turning Pure Data into an embeddable audio synthesis library.
 media-sound/pure-data 0.48.1 0.51.2 9999: A real-time graphical programming environment for audio and graphics processing.
 media-sound/xooky-nabox 9999: A C++ application for running PureData patches on embedded devices.
 net-misc/shell-oaiharvester 2.4.0 2.5.0: OAI-PMH harvester built in shell
