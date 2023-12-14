@@ -5,10 +5,9 @@ dev-embedded/beaglebone-universal-io 20180611 20190121: Contains config-pin, an 
 dev-embedded/raspberry-gpio-python 0.7.0-r1: a Python module to control the GPIO on a Raspberry Pi
 dev-java/xsdv 1.1: Commandline wrapper for Java XSD validation
 dev-python/Pint 0.19.2 0.20.1: Operate and manipulate physical quantities in Python
-dev-python/anybadge 1.9.0: A Python project for generating badges for your projects
 dev-python/eduterm-client 0.2.1: Python library for interfacing with Eduterm
 dev-python/expynent 2.0.0: Library that provides regex patterns.
-dev-python/imsvdex 1.2: This module takes the VDEX-XML objects and offers an API to them.
+dev-python/imsvdex 1.2-r1: This module takes the VDEX-XML objects and offers an API to them.
 dev-python/mwparserfromhell 0.6.5: A Python parser for MediaWiki wikicode
 dev-python/pylom 1.6.3: Python class for reading and writing IMS-LOM records.
 dev-python/python-OBD 0.7.1 0.7.2: Serial module for handling live sensor data from a vehicle's OBD-II port
