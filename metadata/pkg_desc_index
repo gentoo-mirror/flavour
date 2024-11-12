@@ -19,7 +19,7 @@ dev-util/depot_tools 9999: Tools for working with Chromium development.
 dev-util/jmeter-bin 5.3 5.4.3: Pure Java application to load test functional behavior and measure performance
 dev-util/soapui-bin 5.5.0 5.7.0: SoapUI is a free and open source cross-platform Functional Testing solution.
 media-sound/libpd 0.13.2 9999: Turning Pure Data into an embeddable audio synthesis library.
-media-sound/pure-data 0.48.1 0.51.2 9999: A real-time graphical programming environment for audio and graphics processing.
+media-sound/pure-data 0.55.1: A real-time graphical programming environment for audio and graphics processing.
 net-misc/postman-bin 11.4.0: API platform for building and using APIs
 net-misc/shell-oaiharvester 2.5.0: OAI-PMH harvester built in shell
 x11-themes/famfamfam-flag-icons 9999: Flag icons from famfamfam.com.
