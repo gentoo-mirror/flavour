@@ -6,6 +6,7 @@ dev-embedded/raspberry-gpio-python 0.7.0-r1: a Python module to control the GPIO
 dev-java/xsdv 1.1: Commandline wrapper for Java XSD validation
 dev-python/Pint 0.19.2 0.20.1: Operate and manipulate physical quantities in Python
 dev-python/eduterm-client 0.2.1: Python library for interfacing with Eduterm
+dev-python/flexparser 0.4.0: Parsing made fun ... using typing.
 dev-python/imsvdex 1.2-r1: This module takes the VDEX-XML objects and offers an API to them.
 dev-python/mwparserfromhell 0.6.6: A Python parser for MediaWiki wikicode
 dev-python/pylom 1.6.3: Python class for reading and writing IMS-LOM records.
