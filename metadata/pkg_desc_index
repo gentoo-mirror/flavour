@@ -1,10 +1,9 @@
 app-portage/gengee 2.2.1: Gentoo Github PR analysis tool
 app-text/ims-schemas 20190424: Bundle of IMS XML validation schemas
-dev-embedded/adafruit-beaglebone-io-python 1.2.0: Adafruit's BeagleBone IO Python Library
 dev-embedded/beaglebone-universal-io 20190121: Contains config-pin, an easy-to-use pin configuration script.
 dev-embedded/raspberry-gpio-python 0.7.0-r1: a Python module to control the GPIO on a Raspberry Pi
 dev-java/xsdv 1.1: Commandline wrapper for Java XSD validation
-dev-python/Pint 0.19.2 0.20.1: Operate and manipulate physical quantities in Python
+dev-python/Pint 0.19.2 0.20.1 0.24.4: Operate and manipulate physical quantities in Python
 dev-python/eduterm-client 0.2.1: Python library for interfacing with Eduterm
 dev-python/flexcache 0.3.0: A package to cache the result of expensive calculations on disk
 dev-python/flexparser 0.4.0: Parsing made fun ... using typing.
