@@ -3,15 +3,15 @@ app-text/ims-schemas 20190424: Bundle of IMS XML validation schemas
 dev-embedded/beaglebone-universal-io 20190121: Contains config-pin, an easy-to-use pin configuration script.
 dev-embedded/raspberry-gpio-python 0.7.0-r1: a Python module to control the GPIO on a Raspberry Pi
 dev-java/xsdv 1.1: Commandline wrapper for Java XSD validation
-dev-python/Pint 0.19.2 0.20.1 0.24.4: Operate and manipulate physical quantities in Python
 dev-python/eduterm-client 0.2.1: Python library for interfacing with Eduterm
 dev-python/flexcache 0.3.0: A package to cache the result of expensive calculations on disk
 dev-python/flexparser 0.4.0: Parsing made fun ... using typing.
 dev-python/imsvdex 1.2-r1: This module takes the VDEX-XML objects and offers an API to them.
 dev-python/mwparserfromhell 0.6.6: A Python parser for MediaWiki wikicode
+dev-python/pint 0.24.4: Operate and manipulate physical quantities in Python
 dev-python/pylom 1.6.3: Python class for reading and writing IMS-LOM records.
 dev-python/pytest-benchmark 5.1.0: A pytest fixture for benchmarking code
-dev-python/python-OBD 0.7.1 0.7.2: Serial module for handling live sensor data from a vehicle's OBD-II port
+dev-python/python-OBD 0.7.3: Serial module for handling live sensor data from a vehicle's OBD-II port
 dev-python/simbak 0.4.2-r1: A simple backup solution
 dev-python/syntok 1.4.4: Text tokenization and sentence segmentation.
 dev-util/cleanstart 0.5.0: Tool to setup and use Gentoo test chroot environments
