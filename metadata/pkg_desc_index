@@ -1,7 +1,5 @@
-app-portage/gengee 2.2.1: Gentoo Github PR analysis tool
 app-text/ims-schemas 20190424: Bundle of IMS XML validation schemas
 dev-embedded/beaglebone-universal-io 20190121: Contains config-pin, an easy-to-use pin configuration script.
-dev-embedded/raspberry-gpio-python 0.7.0-r1: a Python module to control the GPIO on a Raspberry Pi
 dev-java/xsdv 1.1: Commandline wrapper for Java XSD validation
 dev-python/eduterm-client 0.2.1: Python library for interfacing with Eduterm
 dev-python/flexcache 0.3.0: A package to cache the result of expensive calculations on disk
