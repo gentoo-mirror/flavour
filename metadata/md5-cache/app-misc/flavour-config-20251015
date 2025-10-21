@@ -1,0 +1,9 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=Flavour configuration files.
+EAPI=8
+HOMEPAGE=https://wiki.gentoo.org/wiki/No_homepage
+KEYWORDS=amd64 x86
+LICENSE=public-domain
+RDEPEND=app-shells/bash sys-libs/ncurses
+SLOT=0
+_md5_=cea91f2db07645379902465bed40654e

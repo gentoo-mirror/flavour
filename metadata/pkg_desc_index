@@ -1,3 +1,4 @@
+app-misc/flavour-config 20251015: Flavour configuration files.
 app-text/ims-schemas 20190424: Bundle of IMS XML validation schemas
 dev-embedded/beaglebone-universal-io 20190121: Contains config-pin, an easy-to-use pin configuration script.
 dev-java/xsdv 1.1: Commandline wrapper for Java XSD validation
